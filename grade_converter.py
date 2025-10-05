@@ -1,8 +1,9 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME:Norgie Caceres
+# DATE: 10/04/2025
+# BRIEF DESCRIPTION:This Python program is a grade converter that takes a anumerical input
+# between 1-100 and returns the corresponding letter grade based on a predifined scale.  
 
 
 
@@ -86,6 +87,9 @@ D
    doing this lab?
 
 
+This lab is a great way to implement controlled range checks using conditional statements.
+I'd advise future students to pay close attention to how the grade bounderies are defined,
+especially the difference between inclusive and exclusive range.
 
 
 
